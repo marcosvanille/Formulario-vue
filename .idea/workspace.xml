@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e54bab35-f7ff-401b-ad48-150df60718b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6d99651f39d079943d3b1d58d29aa6ab.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6d99651f39d079943d3b1d58d29aa6ab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b476eceb51208288a39442fd38123946.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b476eceb51208288a39442fd38123946.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1e3eaa01c225684aac184e8b0cc34584.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1e3eaa01c225684aac184e8b0cc34584.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3a86409a83d26db522b1f123b1622f82.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3a86409a83d26db522b1f123b1622f82.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/63bc8b57fa98818790491f6d643cf9b4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/63bc8b57fa98818790491f6d643cf9b4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7523bddb7765642133125fe3c85350b6.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7523bddb7765642133125fe3c85350b6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/816725fa146d259e4ad0e4db0497e191.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/816725fa146d259e4ad0e4db0497e191.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/82702eb89ea1ceb5a345fd89e48d9dbb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/82702eb89ea1ceb5a345fd89e48d9dbb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/892f97b0e1629a77f3f1384a92654a93.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/892f97b0e1629a77f3f1384a92654a93.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/905d376aaa02bd3d83484fe29a0cf1b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/905d376aaa02bd3d83484fe29a0cf1b9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hIBqcT4z4Ca8KvxMjM76TJo6Bt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e54bab35-f7ff-401b-ad48-150df60718b1" name="Default Changelist" comment="" />
+      <created>1599688917975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599688917975</updated>
+      <workItem from="1599688920248" duration="229000" />
+      <workItem from="1599689150342" duration="4855000" />
+      <workItem from="1599777975839" duration="43000" />
+      <workItem from="1599778021319" duration="5818000" />
+      <workItem from="1599841258183" duration="977000" />
+      <workItem from="1600007360097" duration="884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="806" y="431" width="298" height="224" key="#ESLint" timestamp="1599777956734">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="806" y="431" width="298" height="224" key="#ESLint/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599777956734" />
+    <state x="743" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599890027031">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="298" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1599890027031" />
+  </component>
+</project>
